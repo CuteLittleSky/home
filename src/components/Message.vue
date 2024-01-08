@@ -93,6 +93,10 @@ watch(
     align-items: center;
     animation: fade 0.5s;
     max-width: 570px;
+    .logo-img {
+      border-radius: 0%;
+      width: 0px;
+    }
     .name {
       width: 100%;
       padding-left: 22px;
