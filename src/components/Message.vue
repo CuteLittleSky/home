@@ -92,11 +92,7 @@ watch(
     flex-direction: row;
     align-items: center;
     animation: fade 0.5s;
-    max-width: 550px;
-    .logo-img {
-      border-radius: 50%;
-      width: 120px;
-    }
+    max-width: 570px;
     .name {
       width: 100%;
       padding-left: 22px;
