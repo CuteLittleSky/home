@@ -5,33 +5,33 @@
     "link": "https://mc.cutelittlesky.cn/"
   },
   {
-    "icon": "Cloud",
+    "icon": "加入QQ群",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://jq.skycraft.cn/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "B站主页",
+    "link": "https://space.bilibili.com/1620937456"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "粘液科技教程",
+    "link": "https://sf.skycraft.cn/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "Github",
+    "link": "https://github.com/cutelittlesky"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "Wetem微腾云",
+    "link": "https://www.wetem.cn/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "喵云Miaovps",
+    "link": "https://miaovps.com/"
   }
 ]
