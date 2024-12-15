@@ -23,6 +23,22 @@
           'https://support.dmeng.net/upgrade-your-browser.html?referrer=' +
           encodeURIComponent(window.location.href);
     </script>
+        <script>
+          window.onload = _ => {
+              // 跳转
+              const links = [
+                  {path: "/1", url: "https://wwo.lanzoul.com/b00rmwjcuj", text: "压缩包破解（zszs.cc/1）"},
+                  {path: "/2", url: "https://fzllab.com/names/", text: "高科技亚文化取名机（zszs.cc/2）"},
+              ];
+              const path = window.location.pathname;
+              for (let linkItem of links) {
+                  if (linkItem.path === path) {
+                      window.location.replace(linkItem.url);
+                      return;
+                  }
+              }
+          }
+      </script>
   </head>
 
   <body>
