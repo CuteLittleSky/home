@@ -41,7 +41,7 @@ const siteLogo = import.meta.env.VITE_SITE_MAIN_LOGO;
 // 站点链接
 const siteUrl = computed(() => {
   const url = import.meta.env.VITE_SITE_URL;
-  if (!url) return "imsyy.top".split(".");
+  if (!url) return "cutelittlesky.cn".split(".");
   // 判断协议前缀
   if (url.startsWith("http://") || url.startsWith("https://")) {
     const urlFormat = url.replace(/^(https?:\/\/)/, "");
@@ -94,10 +94,10 @@ watch(
     flex-direction: row;
     align-items: center;
     animation: fade 0.5s;
-    max-width: 460px;
+    max-width: 570px;
     .logo-img {
-      border-radius: 50%;
-      width: 120px;
+      border-radius: 0%;
+      width: 0px;
     }
     .name {
       width: 100%;
